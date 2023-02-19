@@ -77,7 +77,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
     `wget -O session.py https://git.io/JY9JI && python session.py`
   - For Windows Users:
     `cd desktop ; wget https://git.io/JY9JI -o ultroid.py ; python ultroid.py`
-- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/TeamUltroid/Ultroid/blob/main/.env.sample).
+- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/suhail0-b/Ultroid/blob/main/.env.sample).
 (You can either edit and rename the file or make a new file named `.env`.)
 - Run the bot:
   - Linux Users:
@@ -87,13 +87,13 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 <details>
 <summary><h3>[OUTDATED] Ultroid CLI</h3></summary>
 
-[Ultroid CLI](https://github.com/BLUE-DEVIL1134/UltroidCli) is a command-line interface for deploying Ultroid.   
+[Ultroid CLI](https://github.com/suhail0-b/UltroidCli) is a command-line interface for deploying Ultroid.   
 
 - **Installing** -    
 Run the following code on a terminal, with curl installed.   
-`ver=$(curl https://raw.githubusercontent.com/BLUE-DEVIL1134/UltroidCli/main/version.txt) && curl -L -o ultroid https://github.com/BLUE-DEVIL1134/UltroidCli/releases/download/$ver/ultroid.exe`
+`ver=$(curl https://raw.githubusercontent.com/suhail0-b/UltroidCli/main/version.txt) && curl -L -o ultroid https://github.com/BLUE-DEVIL1134/UltroidCli/releases/download/$ver/ultroid.exe`
 OR
-Go to [UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli) and install the version release from the Github Releases. Add the executable to your system path as specified in the [Readme](https://github.com/BLUE-DEVIL1134/UltroidCli#how-to-use-ultroidcli-).   
+Go to [UltroidCli](https://github.com/suhail0-b/UltroidCli) and install the version release from the Github Releases. Add the executable to your system path as specified in the [Readme](https://github.com/BLUE-DEVIL1134/UltroidCli#how-to-use-ultroidcli-).   
 
 - **Documentation** -
 Take a look at the [`docs`](https://blue-devil1134.github.io/UltroidCli/) for more detailed information.
